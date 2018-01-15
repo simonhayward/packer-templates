@@ -4,14 +4,13 @@ Examples of provisioning ubuntu server installs remotely (DigitalOcean) and loca
 
 ## VirtualBox example
 
-packer build -only=virtualbox-iso ubuntu-17.04-amd64.json
+packer build -only=virtualbox-iso ubuntu-17.10-amd64.json
 
 ### Supported ubuntu server versions
 
 * 16.04
 * 17.04
-
-
+* 17.10
 
 ## DigitalOcean example
 
