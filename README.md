@@ -11,6 +11,7 @@ packer build -only=virtualbox-iso ubuntu-17.10-amd64.json
 * 16.04
 * 17.04
 * 17.10
+* 18.04
 
 ## DigitalOcean example
 
