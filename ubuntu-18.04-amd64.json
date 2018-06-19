@@ -60,7 +60,7 @@
     "ssh_timeout": "60m",
     "ssh_username": "packer",
     "ssh_password": "packer",
-    "host_port": "2202",
+    "host_port": "2203",
     "do_region": "lon1",
     "do_size": "512mb"
   }
