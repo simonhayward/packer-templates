@@ -62,6 +62,6 @@
     "ssh_password": "packer",
     "host_port": "2203",
     "do_region": "lon1",
-    "do_size": "512mb"
+    "do_size": "s-1vcpu-1gb"
   }
 }
